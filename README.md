@@ -1,0 +1,1 @@
+Project to use information from a FastAPI to investigate football statistics, with an initial goal of testing the statistical significance of the effect of having no crowds on the number of goals and yellow cards
